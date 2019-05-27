@@ -1,0 +1,12 @@
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\DAL.dll.config
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\DAL.dll
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\DAL.pdb
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\EntityFramework.dll
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\EntityFramework.xml
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\obj\Debug\DAL.dll
+C:\Users\raya\Desktop\Entity framework in c@\Entity framework\DAL\obj\Debug\DAL.pdb
